@@ -6,9 +6,9 @@
 // @run-at       document-start
 // @icon         https://sun9-16.userapi.com/impg/g93WJxPJtCopVIAqWbzvaGWbkn-LaY-pEyCh1Q/Jvut2jMz7Rc.jpg?size=640x640&quality=95&sign=2f4460fee947b101894f4c274a599bff&c_uniq_tag=hQ43e9wzpBH6S4E0mWytfXtp5gde33mgCvmnGLVj-rI&type=album
 // @grant        none
-// @downloadURL  https://github.com/mudachyo/BUMP/raw/main/bump-web.user.js
-// @updateURL    https://github.com/mudachyo/BUMP/raw/main/bump-web.user.js
-// @homepage     https://github.com/mudachyo/BUMP
+// @downloadURL  https://github.com/amir-homous/BUMP/raw/main/bump-web.user.js
+// @updateURL    https://github.com/amir-homous/BUMP/raw/main/bump-web.user.js
+// @homepage     https://github.com/amir-homous/BUMP
 // ==/UserScript==
 
 (function() {
